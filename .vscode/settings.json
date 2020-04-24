@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "D:\\Softwares\\Miniconda3\\python.exe",
+    "python.dataScience.runStartupCommands" : "%config IPCompleter.use_jedi = False"
+}
